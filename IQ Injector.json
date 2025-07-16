@@ -1,6 +1,14 @@
 {
+
+"dialog_visibility": "VISIBLE",
+ "redirect_app": "https://play.google.com/store/apps/details?id=com.example.app",
+
   
-"tutor_file":"https://youtube.com/shorts/B31NzTrgEzc?si=FzBe_bkKC9BJD7_q",
-"tutor_shizuku":"https://youtube.com/shorts/k3J4NbdZnw4?si=ThOoD6s3Krf9mnSI"
+ "tutor_file":"https://youtube.com/shorts/B31NzTrgEzc?si=FzBe_bkKC9BJD7_q",
+"tutor_shizuku":"https://youtube.com/shorts/k3J4NbdZnw4?si=ThOoD6s3Krf9mnSI",
+"yt":"",
+  "tiktok":"",
+  "wa":""
+ 
 
 }

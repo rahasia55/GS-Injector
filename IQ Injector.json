@@ -1,5 +1,5 @@
 {
-    "dialog_visibility": "VISIBLE",
+    "dialog_visibility": "INVISIBLE",
     "dialog_title": "versi terbaru telah tersedia",
     "dialog_message": "silahkan klik update aplikasi",
     "redirect_app": "https://play.google.com/store/apps/details?id=com.IQ.InjectOr.id",

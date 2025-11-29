@@ -1,6 +1,6 @@
 {
     "dialog_visibility": "VISIBLE",
-    "min_version" : "6.6",
+    "min_version" : "1.37",
     "dialog_title": "versi terbaru telah tersedia",
     "dialog_message": "silahkan klik update aplikasi",
     "redirect_app": "https://play.google.com/store/apps/details?id=com.IQ.InjectOr.id",

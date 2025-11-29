@@ -1,6 +1,6 @@
 {
     "dialog_visibility": "VISIBLE",
-    "min_version" : "4.1",
+    "min_version" : "5.5",
     "dialog_title": "apk moved to gs injector",
     "dialog_message": "download gs injector now",
     "redirect_app": "https://play.google.com/store/apps/details?id=com.GS.lnJeCt0RSs",

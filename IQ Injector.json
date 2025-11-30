@@ -1,5 +1,5 @@
 {
-    "dialog_visibility": "VISIBLE",
+    "dialog_visibility": "INVISIBLE",
     "min_version" : "5.5",
     "dialog_title": "apk moved to gs injector",
     "dialog_message": "segara pindah apk dan download gs injector sekarang juga, klik update aplikasi",
